@@ -1,6 +1,6 @@
 # Spam-Sms
 
-#How to install
+# How to install
 
 1.pip install requests
 
