@@ -1,4 +1,5 @@
 # Spam-Sms
 
-#How to run
+# How to run
+
 python FLOODSMS.py
