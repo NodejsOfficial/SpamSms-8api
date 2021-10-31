@@ -36,17 +36,14 @@ def newpage():
     head()
 
 newpage()
-print("")
-print("")
+print("\n\n")
 
 
 newpage()
-print("\n")
-print("")
+print("\n\n")
 num = input (" [!] | Enter PhoneNumber : > ")
 newpage()
-print('\n')
-print("")
+print('\n\n')
 n = int(input(" [+] | Amount : > "))
 session = requests.Session()
 
